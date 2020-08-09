@@ -1,0 +1,7 @@
+{
+  "name": "PostGenerator",
+  "id": "866714687345416777",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
